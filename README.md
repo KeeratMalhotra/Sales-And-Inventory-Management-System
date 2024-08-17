@@ -1,5 +1,10 @@
 # Sales-And-Inventory-Management-System
 Key Features:
+Technology Stack:
+
+    Backend: Developed using Python to handle business logic efficiently.
+
+    Database: Utilized MySQL for robust data management, including inventory control and transaction records.
 
 Admin Panel:
 
@@ -13,9 +18,4 @@ Customer Panel:
     Provide a summary of the total amount due.
     Secure transactions with a unique "bucket password" for each customer.
     
-Technology Stack:
-
-    Backend: Developed using Python to handle business logic efficiently.
-
-    Database: Utilized MySQL for robust data management, including inventory control and transaction records.
 
